@@ -1,0 +1,18 @@
+.btn_project{
+    text-decoration: none;
+    color: rgb(0, 238, 255);
+}
+.navbar-brand {
+    margin-right: -100px;
+}
+.skill{
+    padding: 10px;
+    background-color: rgb(2, 165, 177);
+    border-radius: 19px;
+    border: 2px solid rgb(2, 165, 177);
+}
+.btn-primary {
+    color: rgb(0, 238, 255);
+    background-color: rgb(0, 238, 255);
+    border-color: rgb(0, 238, 255);
+}
