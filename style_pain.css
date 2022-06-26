@@ -8,5 +8,10 @@
 .skill{
     padding: 10px;
     border-radius: 19px;
-    border: 2px solid rgb(7, 122, 101);
+    border: 2px solid rgb(253, 63, 37);
+}
+.btn-primary {
+    color: rgb(0, 161, 172);
+    background-color: rgb(253, 63, 37);
+    border-color: rgb(253, 63, 37);
 }
